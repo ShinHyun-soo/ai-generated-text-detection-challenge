@@ -13,3 +13,16 @@
 3. Run `pre-processing.ipynb`, you can get `train_undersampled.csv` .
 4. Run `python train/roberta-large.py && train/deberta-v3-xlarge-korean-192.py && deberta-v3-xlarge-korean.py && deberta-v3-base-korean.py && koelectra-base-v3-discriminaotr.py && mdeberta-v3-base-kor-further.py`
 5. Run `inference.py`
+
+### Ciatation
+
+@misc{park2021klue,
+      title={KLUE: Korean Language Understanding Evaluation},
+      author={Sungjoon Park and Jihyung Moon and Sungdong Kim and Won Ik Cho and Jiyoon Han and Jangwon Park and Chisung Song and Junseong Kim and Yongsook Song and Taehwan Oh and Joohong Lee and Juhyun Oh and Sungwon Lyu and Younghoon Jeong and Inkwon Lee and Sangwoo Seo and Dongjun Lee and Hyunwoo Kim and Myeonghwa Lee and Seongbo Jang and Seungwon Do and Sunkyoung Kim and Kyungtae Lim and Jongwon Lee and Kyumin Park and Jamin Shin and Seonghyun Kim and Lucy Park and Alice Oh and Jungwoo Ha and Kyunghyun Cho},
+      year={2021},
+      eprint={2105.09680},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+
