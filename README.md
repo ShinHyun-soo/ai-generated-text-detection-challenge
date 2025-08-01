@@ -11,7 +11,7 @@
 1. Download data in [Dacon](https://dacon.io/competitions/official/236473/data). Data should be include train.csv, test.csv, sample_submission.csv to run full code in this repository.
 2. Create python 3.11 environment and run `pip install -r "requirements.txt"`
 3. Run `pre-processing.ipynb`, you can get `train_undersampled.csv` .
-4. Run `python train/roberta-large.py && train/deberta-v3-xlarge-korean-192.py && deberta-v3-xlarge-korean.py && deberta-v3-base-korean.py && koelectra-base-v3-discriminaotr.py && mdeberta-v3-base-kor-further.py`
+4. Run ```python python train/roberta-large.py && train/deberta-v3-xlarge-korean-192.py && deberta-v3-xlarge-korean.py && deberta-v3-base-korean.py && koelectra-base-v3-discriminaotr.py && mdeberta-v3-base-kor-further.py```
 5. Run `inference.py`
 
 ### Ciatation
