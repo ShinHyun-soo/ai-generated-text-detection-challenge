@@ -11,4 +11,4 @@
 2. Create python 3.11 environment and run `pip install -r "requirements.txt"`
 3. Run `pre-processing.ipynb`, you can get `train_undersampled.csv` .
 4. Run `python train/roberta-large.py && train/deberta-v3-xlarge-krean-192.py && deberta-v3-xlarge-korean.py && deberta-ve-base-korean.py && koelectra-base-v3-discriminaotr.py && mdeberta-v3-base-kor-further.py`
-5. Run inference.py
+5. Run `inference.py`
