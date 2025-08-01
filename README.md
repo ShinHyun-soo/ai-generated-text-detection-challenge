@@ -26,4 +26,26 @@
 }
 ```
 
+```
+@misc{park2020koelectra,
+  author = {Park, Jangwon},
+  title = {KoELECTRA: Pretrained ELECTRA Model for Korean},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/monologg/KoELECTRA}}
+}
+```
+
+```
+@misc{he2021debertav3,
+      title={DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing}, 
+      author={Pengcheng He and Jianfeng Gao and Weizhu Chen},
+      year={2021},
+      eprint={2111.09543},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
